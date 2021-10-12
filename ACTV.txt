@@ -1,0 +1,2 @@
+limite=int(input("ingrese el limite:"))
+for i in range (limite):
